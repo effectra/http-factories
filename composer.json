@@ -1,0 +1,21 @@
+{
+    "name": "effectra/http-factory",
+    "description": "The Effectra HTTP Factory package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Effectra\\Http\\Factory\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Taha",
+            "email": "info@mohammedtaha.net"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "psr/http-factory": "^1.0"
+    }
+}
