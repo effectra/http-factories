@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "effectra/http-message": "1.0",
+        "effectra/http-message": "^1.0",
         "psr/http-factory": "^1.0"
     }
 }
